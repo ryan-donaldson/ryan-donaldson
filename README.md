@@ -7,7 +7,7 @@ Web Developer and Designer
 Hello! I am a web developer and software engineer with a degree from Brigham Young University-Idaho. After receiving my Bachelor's in Software Engineering, I sought to further my education and learned how to design and develop websites.
 
 * 🌍  I'm based in Utah
-* 🖥️  See my portfolio at [MyPortfolio](http://placeholder.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://ryan-donaldson.github.io/Eportfolio/#))
 * ✉️  You can contact me at [ryanwblue@gmail.com](mailto:ryanwblue@gmail.com)
 
 <p align="left">
