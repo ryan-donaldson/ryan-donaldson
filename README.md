@@ -2,10 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Junior Web Developer
-Ultraverse - https://ryan-internship-iota.vercel.app/ | Summarist - https://advanced-internship-dusky.vercel.app/ | Covenant AI Consutling - https://covenantaico.com/
 --------------------------
 
 Junior Frontend Developer | React, Next.js, TypeScript | BSc Software Engineering
+
+Ultraverse - https://ryan-internship-iota.vercel.app/ | Summarist - https://advanced-internship-dusky.vercel.app/ | Covenant AI Consutling - https://covenantaico.com/
 
 * 🌍  I'm based in Utah
 * 🖥️  See my portfolio at [MyPortfolio](https://ryan-donaldson.github.io/Eportfolio/#)
