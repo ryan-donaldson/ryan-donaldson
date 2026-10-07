@@ -2,9 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Junior Web Developer
+Ultraverse - https://ryan-internship-iota.vercel.app/ | Summarist - https://advanced-internship-dusky.vercel.app/ | Covenant AI Consutling - https://covenantaico.com/
 --------------------------
 
-Hello! I am a junior web developer with a degree from Brigham Young University-Idaho. After receiving my Bachelor's in Software Engineering, I sought to further my education and learned how to design and develop websites.
+Junior Frontend Developer | React, Next.js, TypeScript | BSc Software Engineering
 
 * 🌍  I'm based in Utah
 * 🖥️  See my portfolio at [MyPortfolio](https://ryan-donaldson.github.io/Eportfolio/#)
