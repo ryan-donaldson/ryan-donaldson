@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ryan Donaldson
 =======================================================================================================================================
 
-Web Developer and Designer
+Junior Web Developer
 --------------------------
 
 Hello! I am a junior web developer with a degree from Brigham Young University-Idaho. After receiving my Bachelor's in Software Engineering, I sought to further my education and learned how to design and develop websites.
