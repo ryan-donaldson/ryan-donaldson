@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-Hello! I am a web developer and software engineer with a degree from Brigham Young University-Idaho. After receiving my Bachelor's in Software Engineering, I sought to further my education and learned how to design and develop websites.
+Hello! I am a junior web developer with a degree from Brigham Young University-Idaho. After receiving my Bachelor's in Software Engineering, I sought to further my education and learned how to design and develop websites.
 
 * 🌍  I'm based in Utah
 * 🖥️  See my portfolio at [MyPortfolio](https://ryan-donaldson.github.io/Eportfolio/#)
